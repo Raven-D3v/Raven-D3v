@@ -14,7 +14,7 @@
 ---
 
 ## 📁 Portfolio  
-🔗 **[Data Analytics Portfolio](https://github.com/Raven-D3v/data-analytics-portfolio)**
+🔗 **[See the solutions I can provide here! (Portfolio)](https://github.com/Raven-D3v/data-analytics-portfolio)**
 
 ---
 
