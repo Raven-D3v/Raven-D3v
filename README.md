@@ -39,7 +39,7 @@ Instead of just dashboards or scripts, I focus on:
   </td>
     
   <td align="center" width="30%">
-      <img src="https://github.com/Raven-D3v/ProjectData/blob/7b5f4772dab68a81128d7b7bd27efc383354ffc8/prRaven-circular.png" width="300" style="border-radius:50%;" />
+      <img src="https://github.com/Raven-D3v/ProjectData/blob/1f0d39cb115a8f0fa829e2ce013d0070c52ee1f2/PrRaven-portrait.png.jpg" width="300"/>
     </td>
   </tr>
 </table>
