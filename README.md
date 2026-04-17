@@ -14,6 +14,11 @@
 ---
 
 ## 🚀 What I Do  
+
+<table>
+  <tr>
+    <td width="70%">
+
 I design and build **data-driven systems** that help teams eliminate manual work, improve decision-making, and scale operations.
 
 Instead of just dashboards or scripts, I focus on:
@@ -22,6 +27,14 @@ Instead of just dashboards or scripts, I focus on:
 - 📊 **Data Systems** — turning raw data into actionable insights  
 
 > 💡 I build solutions, not just features.
+
+  </td>
+    
+  <td align="center" width="30%">
+      <img src="https://github.com/Raven-D3v/ProjectData/blob/9f015369824cd71f849fd67a65edc09527d2750c/PrRaven-BrandProf-Apr182026.png" width="180" style="border-radius:50%;" />
+    </td>
+  </tr>
+</table>
 
 ---
 
