@@ -34,8 +34,7 @@ Instead of just dashboards or scripts, I focus on:
 ---
 
 ## ⚙️ Featured Projects 
-<details>
-<summary>See my Solutions!</summary>  
+Here are selected systems I’ve built focused on automation, data, and real-world workflows:
   <table>
     <thead>
       <tr>
@@ -62,10 +61,8 @@ Instead of just dashboards or scripts, I focus on:
     </tbody>
   </table>
 
-  ## 📁 Portfolio  
-  🔗 **[View More Here! (Portfolio)](https://github.com/Raven-D3v/data-analytics-portfolio)**
-
-</details>
+  ### 📁 Portfolio  
+  🔗 **[View All Projects & Case Studies](https://github.com/Raven-D3v/data-analytics-portfolio)**
 
 ---
 
