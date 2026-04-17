@@ -49,30 +49,46 @@ Instead of just dashboards or scripts, I focus on:
 ## ⚙️ Featured Projects 
 Here are selected systems I’ve built focused on automation, data, and real-world workflows:
   <table>
-    <thead>
-      <tr>
-        <th>Project</th>
-        <th>Description</th>
-        <th>Preview</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr> <!--Start of OneTapSOS-->
-        <td><a href="https://www.notion.so/OneTapSOS-2ac6fb0378b68067af69fa8b0375baf3?source=copy_link">OneTapSOS</a></td>
-        <td>OneTapSOS: An AI-powered SMS emergency alert system that enables students to quickly and discreetly report robbery, assault, and harassment. Features one-tap alerts, Python NLP classification, and a Django dashboard with real-time analytics and geospatial mapping for responders.</td>
-        <td>
+  <thead>
+    <tr>
+      <th align="center">Project</th>
+      <th>Description</th>
+      <th align="center">Preview</th>
+    </tr>
+  </thead>
+  <tbody>
+    <!-- OneTapSOS -->
+    <tr>
+      <td align="center">
+        <a href="https://www.notion.so/OneTapSOS-2ac6fb0378b68067af69fa8b0375baf3?source=copy_link">
+          <strong>OneTapSOS</strong>
+        </a>
+      </td>
+      <td>
+        OneTapSOS: An AI-powered SMS emergency alert system that enables students to quickly and discreetly report robbery, assault, and harassment. Features one-tap alerts, Python NLP classification, and a Django dashboard with real-time analytics and geospatial mapping for responders.
+      </td>
+      <td align="center">
         <a href="https://www.notion.so/OneTapSOS-2ac6fb0378b68067af69fa8b0375baf3?source=copy_link">
           <img src="https://github.com/Raven-D3v/data-analytics-portfolio/blob/bde101215c4504eafc386e1a1c5c9c091278e037/Project/Automation/OneTapSOS/OneTapSOS.jpg" height="300"/>
         </a>
       </td>
-      </tr> <!--End of OneTapSOS-->
-      <tr> <!--Start of TG Finance Tracker-->
-        <td><a href="https://github.com/Raven-D3v/data-analytics-portfolio/blob/e06e1379b901409c35a9d765a1862a36846e948d/Project/Automation/TG-Finance-Tracker/README.md">TG Finance Tracker – MVP v1</a></td>
-        <td>Early version Telegram-to-Google Sheets automation for tracking income, expenses, and cash flow. Built using n8n and Supabase, enabling multiple users to link their Telegram accounts simultaneously. Currently open for limited public validation.</td>
-        <td><img src="https://github.com/Raven-D3v/data-analytics-portfolio/blob/ba05557a46bdfb75ad7409b36a7a02724ef31863/Project/Automation/TG-Finance-Tracker/Income.png" height"100"/></td>
-      </tr> <!--End of TG Finance Tracker-->
-    </tbody>
-  </table>
+    </tr>
+    <!-- TG Finance Tracker -->
+    <tr>
+      <td align="center">
+        <a href="https://github.com/Raven-D3v/data-analytics-portfolio/blob/e06e1379b901409c35a9d765a1862a36846e948d/Project/Automation/TG-Finance-Tracker/README.md">
+          <strong>TG Finance Tracker – MVP v1</strong>
+        </a>
+      </td>
+      <td>
+        Early version Telegram-to-Google Sheets automation for tracking income, expenses, and cash flow. Built using n8n and Supabase, enabling multiple users to link their Telegram accounts simultaneously. Currently open for limited public validation.
+      </td>
+      <td align="center">
+        <img src="https://github.com/Raven-D3v/data-analytics-portfolio/blob/ba05557a46bdfb75ad7409b36a7a02724ef31863/Project/Automation/TG-Finance-Tracker/Income.png" height="800"/>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
   ### 📁 Portfolio  
   🔗 **[View All Projects & Case Studies](https://github.com/Raven-D3v/data-analytics-portfolio)**
