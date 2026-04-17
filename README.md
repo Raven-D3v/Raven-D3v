@@ -13,11 +13,11 @@
 
 ---
 
-## 🚀 What I Do  
-
 <table>
   <tr>
     <td width="70%">
+
+## 🚀 What I Do  
 
 I design and build **data-driven systems** that help teams eliminate manual work, improve decision-making, and scale operations.
 
@@ -28,14 +28,6 @@ Instead of just dashboards or scripts, I focus on:
 
 > 💡 I build solutions, not just features.
 
-  </td>
-    
-  <td align="center" width="30%">
-      <img src="https://github.com/Raven-D3v/ProjectData/blob/7b5f4772dab68a81128d7b7bd27efc383354ffc8/prRaven-circular.png" width="180" style="border-radius:50%;" />
-    </td>
-  </tr>
-</table>
-
 ---
 
 ## 🧠 Core Value I Provide  
@@ -43,6 +35,14 @@ Instead of just dashboards or scripts, I focus on:
 - Build **dashboards with real operational impact** (not just visuals)
 - Design **MVP systems** that can scale into full solutions
 - Bridge the gap between **data, automation, and real business use**
+
+  </td>
+    
+  <td align="center" width="30%">
+      <img src="https://github.com/Raven-D3v/ProjectData/blob/7b5f4772dab68a81128d7b7bd27efc383354ffc8/prRaven-circular.png" width="300" style="border-radius:50%;" />
+    </td>
+  </tr>
+</table>
 
 ---
 
