@@ -98,19 +98,59 @@ Here are selected systems I’ve built focused on automation, data, and real-wor
 ## 🛠️ Tech Stack  
 
 ### 🔹 Data & Analytics  
-- Excel / Google Sheets (Advanced)
-- SQL (MySQL, SQLite)
-- Python (Pandas, NumPy, Matplotlib)
+<p>
+  <img src="https://img.shields.io/badge/Excel-GoogleSheets-34A853?style=for-the-badge"/>
+</p>
+<p>
+  <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white"/>
+</p>
+<p>
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
+  <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black"/>
+  <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+</p>
 
 ### 🔹 Automation & Integration  
-- n8n (Workflow Automation)
-- Google Apps Script (GAS)
-- API Integrations
+<p>
+  <img src="https://img.shields.io/badge/n8n-FF6D5A?style=for-the-badge"/>
+</p>
+<p>
+  <img src="https://img.shields.io/badge/GAS-GoogleAppsScript-4285F4?style=for-the-badge"/>
+</p>
+<p>
+  <img src="https://img.shields.io/badge/API-Integration-000000?style=for-the-badge"/>
+</p>
 
 ### 🔹 Systems & Development  
-- Node.js / JavaScript  
-- Django  
-- Database Design (Relational & NoSQL)
+
+#### 🎨 Frontend  
+<p>
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+  <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+</p>
+
+#### ⚙️ Backend  
+<p>
+  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white"/>
+</p>
+
+#### 🗄️ Database  
+<p>
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
+</p>
+
+#### 🚀 Infrastructure / Deployment  
+<p>
+  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black"/>
+</p>
 
 ---
 
