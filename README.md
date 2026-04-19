@@ -165,14 +165,14 @@ I’m open to working on:
 
 ## 📫 Contact  
 🌍 **[All Links & Socials](https://linktr.ee/projectRaven)**  
-📧 raven.dev2024@gmail.com
+📧 project.raven2024@gmail.com
 
 <p align="left">
   <a href="https://www.facebook.com/profile.php?id=61562294530876"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" /></a>
   <a href="https://www.instagram.com/project.raven2024"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/raven-klein-r-8705222b6"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" /></a>
   <a href="https://www.tiktok.com/@project_raven2024"><img src="https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white" /></a>
-  <a href="mailto:raven.dev2024@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" /></a>
+  <a href="mailto:project.raven2024@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" /></a>
 </p>
 
 
