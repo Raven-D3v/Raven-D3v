@@ -163,7 +163,7 @@ Here are selected systems I’ve built focused on automation, data, and real-wor
 ## 📜 Certifications  
 
 🎓 **Verified Certifications & Continuous Learning**  
-🔗 [View Certifications on LinkedIn](https://www.linkedin.com/in/raven-klein-r-8705222b6/details/certifications/)
+🔗 [View Certifications on LinkedIn](https://www.linkedin.com/in/raven-rubin/details/certifications/)
 
 ---
 
