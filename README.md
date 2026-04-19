@@ -69,7 +69,20 @@ Here are selected systems I’ve built focused on automation, data, and real-wor
       </td>
       <td align="center">
         <a href="https://www.notion.so/OneTapSOS-2ac6fb0378b68067af69fa8b0375baf3?source=copy_link">
-          <img src="https://github.com/Raven-D3v/data-analytics-portfolio/blob/bde101215c4504eafc386e1a1c5c9c091278e037/Project/Automation/OneTapSOS/OneTapSOS.jpg" height="300"/>
+          <img src="https://github.com/Raven-D3v/data-analytics-portfolio/blob/bde101215c4504eafc386e1a1c5c9c091278e037/Project/Automation/OneTapSOS/OneTapSOS.jpg" height="150"/>
+        </a>
+      </td>
+    </tr>
+    <!--EventSync-->
+    <tr>
+      <td align="center">
+        <a href="https://github.com/Raven-D3v/data-analytics-portfolio/blob/367f2938fca5c50f2be8632b78b30fe0b60eb7a1/Project/Automation/EventSync/README.md">EventSync
+        </a>
+      </td>
+      <td>A system integration architecture that connects Google Sheets, Apps Script, and n8n into a unified event management system. Handles registration, payment workflows, email automation, and real-time attendance validation using an event-driven design.</td>
+      <td>
+        <a href="https://github.com/Raven-D3v/data-analytics-portfolio/blob/367f2938fca5c50f2be8632b78b30fe0b60eb7a1/Project/Automation/EventSync/README.md">
+          <img src="https://github.com/Raven-D3v/data-analytics-portfolio/blob/367f2938fca5c50f2be8632b78b30fe0b60eb7a1/Project/Automation/EventSync/src/image4.png" height="300"/>
         </a>
       </td>
     </tr>
