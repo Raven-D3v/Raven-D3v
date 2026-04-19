@@ -76,7 +76,8 @@ Here are selected systems I’ve built focused on automation, data, and real-wor
     <!--EventSync-->
     <tr>
       <td align="center">
-        <a href="https://github.com/Raven-D3v/data-analytics-portfolio/blob/367f2938fca5c50f2be8632b78b30fe0b60eb7a1/Project/Automation/EventSync/README.md">EventSync
+        <a href="https://github.com/Raven-D3v/data-analytics-portfolio/blob/367f2938fca5c50f2be8632b78b30fe0b60eb7a1/Project/Automation/EventSync/README.md">
+          <strong>EventSync</strong>
         </a>
       </td>
       <td>A system integration architecture that connects Google Sheets, Apps Script, and n8n into a unified event management system. Handles registration, payment workflows, email automation, and real-time attendance validation using an event-driven design.</td>
