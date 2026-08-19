@@ -76,7 +76,7 @@ Here are selected systems I’ve built focused on automation, data, and real-wor
        <!-- SENTINEL -->
     <tr>
       <td align="center">
-        <a href="https://github.com/Raven-D3v/data-analytics-portfolio/blob/94b3239edf70ed3b4723e66be9860ba32960f657/Project/Automation/Sentinel/README.md">
+        <a href="https://github.com/Raven-D3v/data-analytics-portfolio/blob/4e1132cfa99aec01e2b599b4ee7a191eb5c8583d/Project/Automation/Sentinel/README.md">
           <strong>SENTINEL</strong>
         </a>
       </td>
@@ -84,7 +84,7 @@ Here are selected systems I’ve built focused on automation, data, and real-wor
         A production-ready license renewal automation system that connects Google Sheets, Google Calendar, Apps Script, n8n, and Gmail to automatically monitor license expiry dates, trigger internal renewal alerts before expiration, and monitor workflow health.
       </td>
       <td align="center">
-        <a href="https://github.com/Raven-D3v/data-analytics-portfolio/blob/94b3239edf70ed3b4723e66be9860ba32960f657/Project/Automation/Sentinel/README.md">
+        <a href="https://github.com/Raven-D3v/data-analytics-portfolio/blob/4e1132cfa99aec01e2b599b4ee7a191eb5c8583d/Project/Automation/Sentinel/README.md">
           <img src="https://github.com/Raven-D3v/data-analytics-portfolio/blob/94b3239edf70ed3b4723e66be9860ba32960f657/Project/Automation/Sentinel/src/SENTI_Email.png" height="300"/>
         </a>
       </td>
